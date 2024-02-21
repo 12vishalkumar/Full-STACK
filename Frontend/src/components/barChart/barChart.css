@@ -1,0 +1,10 @@
+.barchart-container{
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 25%;
+    background-color: rgb(194, 178, 226);
+}

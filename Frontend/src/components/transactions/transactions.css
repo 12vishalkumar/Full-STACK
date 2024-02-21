@@ -1,0 +1,99 @@
+.main-container{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.first-container{
+    height: 35%;
+    width: 45%;
+    border-radius: 48%;
+    background-color: rgb(117, 248, 57);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.second-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 20px;
+    cursor: pointer;
+    height: 60%;
+    overflow-y: auto;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #1157a7;
+}
+
+.input-element{
+    background-color: #f8f7f5;
+    border-radius: 50px;
+    height: 50px;
+    width: 40%;
+    font-size: 18px;
+    border: solid 1.5px black;
+    padding-left: 20px;
+}
+
+.last-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    font-weight: bold;
+}
+
+.button{
+    width: 100%;
+    padding: 8px;
+    font-size: 15px;
+    background-color: #1157a7;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.button:hover {
+    background-color: rgba(5, 116, 33, 0.877);
+}
+
+.product-image{
+    background-color: transparent;
+}
+
+.line{
+    color: rgb(15, 15, 15);
+}
+
+.tBody {
+    background-color: #7e7e80;
+}
+
+.table-data {
+    text-align: justify;
+}
