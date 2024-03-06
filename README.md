@@ -1,4 +1,4 @@
-<h1><center> MERN STACK APPLICATION </center></h1>
+<h1><center> Full STACK APPLICATION </center></h1>
 
 # Backend task
 <p align="justify">✍ This project involves the creation of a suite of RESTful APIs designed to manage, analyze, and visualize transaction data. The goal is to build a robust backend system that can initialize a database with seed data from a third-party API, offer detailed transaction listings with search and pagination features, and provide insights through statistical analysis and chart data generation.</p>
